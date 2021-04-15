@@ -2,7 +2,6 @@ var fs = require('fs')
 const Discord = require("discord.js");
 const request = require("request"); 
 var chalk = require('chalk');
-var center = require('center-align');
 
 const tokens = fs.readFileSync('tokens.txt', 'utf-8').replace(/\r|\x22/gi, '').split('\n');
 var reciever = fs.readFileSync('reciever.txt', 'utf-8').replace(/\r/gi, '').split('\n');
