@@ -12,3 +12,5 @@
 <li> Install all the packages with the install bat.
 <li> Then Run the command npm i discord.js@11.6.2 (You have to use an older version as they stopped self bots working on new updates) 
 <li>Run the program by using the run bat</li>
+
+![Snipr](https://user-images.githubusercontent.com/59532064/114877361-1f260380-9df7-11eb-90c9-07aadb9245cf.PNG)
