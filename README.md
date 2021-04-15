@@ -11,4 +11,4 @@
 <li>If the program doesn't run you must intall Node.js https://nodejs.org/en/</li>
 <li> Install all the packages with the install bat.
 <li> Then Run the command npm i discord.js@11.6.2 (You have to use an older version as they stopped self bots working on new updates) 
-<li>Run the program and it should now be all done, just leave it running and it should give you free nitro</li>
+<li>Run the program by using the run bat</li>
